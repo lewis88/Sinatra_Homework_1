@@ -1,0 +1,54 @@
+* { font-family: "Arial", Times, serif}
+
+div#mainwrapper {
+  margin: auto;
+  background:white;
+  width: 800px;
+  height: 1000px;
+}
+
+body {
+  background: #5D8AA8;
+}
+
+header {
+  display:block;
+  padding: 20px 0px 20px 0px;
+}
+
+section#mainarticle {
+  padding: 0px 20px 0px 20px;
+}
+
+#lewisavatar {
+  float: left;
+}
+
+#horzNav {
+  display: block;
+  padding: 10px 20px 10px 0px;
+  background: black;
+}
+
+#horzNav a {
+  text-decoration: none;
+  padding: 0px 0px 0px 20px;
+  color: white;
+}
+
+#cfooter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#columns1 ul {
+  float: left;
+  list-style: none;
+}
+
+#columns2 ul {
+  float: right;
+  list-style: none;
+}
